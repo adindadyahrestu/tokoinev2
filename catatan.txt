@@ -1,0 +1,17 @@
+akun admin 1
+userame : admin
+password : admin
+akun admin 1
+userame : admin2
+password : 12345
+
+akun user
+userame : ari@gmail.com
+password : ari
+
+akun user 2
+userame : bayu@gmail.com
+password : 12345
+
+username: jack@gmail.com
+pw : 54321
